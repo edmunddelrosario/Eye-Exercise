@@ -31,3 +31,15 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+
+.cssMouth {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 4px solid #000;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    height: 20px;
+    width: 45px;
+    margin: 0px auto 0;
+}
