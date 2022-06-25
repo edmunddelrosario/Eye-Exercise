@@ -6,7 +6,7 @@ body {
 
 .eyes {
   position: absolute;
-  top: 50%;
+  top: 35%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
@@ -34,7 +34,7 @@ body {
 
 .mouth {
   position: absolute;
-  top: 80%;
+  top: 70%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
@@ -44,10 +44,9 @@ body {
     border-top: none;
     border-right: none;
     border-left: none;
-    border-bottom: 4px solid #000;
-    -webkit-border-radius: 100px;
-    border-radius: 100px;
-    height: 80px;
-    width: 160px;
+    border-bottom: 20px solid #000;
+    border-radius: 150px;
+    height: 180px;
+    width: 260px;
     margin: 0px auto 0;
 }
